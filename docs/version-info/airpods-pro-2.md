@@ -20,7 +20,7 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 
 **HR** - The HR earbuds has a yellowish, softer case that is less sweatproof than the TB model.  The battery life of the HR model is 7 hours without ANC, and 5 hours with ANC turned on. Tuned to be bass heavy. HR also has the best transparency & ANC performance (average 34.2db, peak 39db), although it is similar to TB in most situations. 
 
-**Huilian** - The Huilian earbuds is the middle of the pack case, firmer than HR but softer than TB and equiped with 1:1 hinge. However due to Huilian chipset, ANC is significantly worse than the other two model - 5.2TB & 5.2HR (average 30-32 DB, peak 38db). The battery life of the Huilian model is 6 hours without ANC, and 4.5 hours with ANC turned on.
+**Huilian** - The Huilian earbuds is the middle of the pack case, firmer than HR but softer than TB and equiped with 1:1 hinge. However due to Huilian chipset, ANC is worse than the other two model - 5.2TB & 5.2HR (average 30-32 DB, peak 38db). The battery life of the Huilian model is 6 hours without ANC, and 4.5 hours with ANC turned on.
 
 
 ## Version 5.3 vs Version 5.2: Is the Upgrade Justified?
@@ -29,6 +29,10 @@ Click the hyper-link on the 'Version' column to find reviews for the given model
 - The battery has been updated, but without any increase in capacity.
 - The device now supports connection to up to three devices simultaneously.
 - Adaptive ANC functionality has been improved, but the performance gain is marginal, estimated at only a 5% improvement over Version 5.2.
+- ANC capability has shifted from 33.6dB and 39dB peak to 36-38dB and 43-42dB peak (statistically), testing is still in progess
+  so we cannot say for sure if the improvement is really that big in practice.
+- Conversation Awareness has also been improved, but the performance gain is also marginal,
+  making the v5.3 and 5.2 still sub-par in the category of adaptive audio & therefore conversation awareness.
 
 **Please note** that the following models are **discontinued**:
 
